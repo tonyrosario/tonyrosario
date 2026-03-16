@@ -57,10 +57,12 @@ every other engineer on the team faster.
 
 Java engineer with a long track record in CI/CD, test automation, and backend services.
 I've worked across enough messy systems to know that solid pipelines, good test coverage,
-and readable code is what actually keeps teams moving.
+and readable code are what actually keeps teams moving.
 
 Currently adding cloud-native and AWS depth to a foundation that's been
 production-tested for years.
+
+I've also led and coached engineering teams, which mostly means I've learned how to spot what's slowing people down and get out of the way of the rest.
 
 Not a front-end developer. Very much a back-end and platform engineer.
 
